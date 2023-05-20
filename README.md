@@ -54,4 +54,23 @@
 
 
 	[test@linux-vm01 banner-main]$ 
+	[ddas@linux-vm01 banner-main]$ banner Welcome 2023
+
+
+	W   W EEEEE L      CCC   OOO  M   M EEEEE 
+	W   W E     L     C   C O   O MM MM E     
+	W W W EEE   L     C     O   O M M M EEE   
+	W W W E     L     C   C O   O M   M E     
+ 	W W  EEEEE LLLLL  CCC   OOO  M   M EEEEE 
+	
+	
+	 222   OOO   222  3333  
+	2   2 O   O 2   2     3 
+	   2  O O O    2   333  
+	  2   O   O   2       3 
+	22222  OOO  22222 3333  
+
+
+	[ddas@linux-vm01 banner-main]$ 
+
 

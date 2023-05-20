@@ -12,10 +12,15 @@ Here is the quick solution to make banner work for you.
 /usr/bin/which: no banner in (/home/opc/.local/bin:/home/opc/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin)
 
 [test@linux-vm01 ~]$ sudo yum install sysvbanner
+
 Last metadata expiration check: 0:23:00 ago on Sat 20 May 2023 07:41:24 AM GMT.
+
 No match for argument: sysvbanner
+
 Error: Unable to find a match: sysvbanner
+
 [test@linux-vm01 ~]$
+
 
 
 **Solution: -**
